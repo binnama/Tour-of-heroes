@@ -1,3 +1,5 @@
+An Angular tutorial while practicing split keyboard. Good thing key-strokes have not been recorded XD
+
 # AngularTourOfHeroes
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 16.1.1.
